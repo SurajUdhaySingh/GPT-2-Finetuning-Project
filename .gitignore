@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Allow only specific files
+!pdf_utility.py
+!web_scrape.py
+!fine_tuning_gpt-2.ipynb
+!.gitignore
